@@ -1,0 +1,2 @@
+c:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\GameData\RadarAltimeter\RadarAltimeter.dll
+c:\users\joe\documents\visual studio 2015\Projects\AltimeterSwitch\AltimeterSwitch\obj\Release\RadarAltimeter.dll
